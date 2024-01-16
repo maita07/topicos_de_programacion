@@ -24,6 +24,6 @@ int menu()
 {
     printf("Elija una opcion:\n");
     printf("Minimo elemento -> 1");
-    printf();
+    printf("loclo");
     printf();
 }
