@@ -1,0 +1,10 @@
+{
+    "notebook.output.fontFamily": "'Cascadia Code'",
+    "chat.editor.fontFamily": "'Cascadia Code'",
+    "terminal.integrated.fontFamily": "'Cascadia Code'",
+    "scm.inputFontFamily": "'Cascadia Code'",
+    "debug.console.fontFamily": "'Cascadia Code'",
+    "editor.inlayHints.fontFamily": "'Cascadia Code'",
+    "editor.codeLensFontFamily": "'Cascadia Code'",
+    "editor.fontFamily": "'Cascadia Code'"
+}
